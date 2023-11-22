@@ -1,0 +1,58 @@
+- Techniques of criminal attacks / plan / strategies
+    - Bruteforce attack 
+    - Phreaking
+        Technique of hacking into a telephone network to make long range 'free' phone calls
+    - Hacker vs Cracker
+        - Hacker
+            - Intent is ethical and constructive
+            - Ex: White hat hacker
+        - Cracker
+            - Destructive and malicious / non ethical
+            - Ex: Black hat Cracker
+        - Gray hat hacker
+            - Inbetween, sometimes he hacks and sometimes he cracks
+    - Cyberwarfare [ Digital warfare ] / Patriarch hacking
+        - A nation will attack another using hacking tech
+    - War dial up
+        - Dials phone numbers continously to findout systems connected to the modem
+
+- Vulnerability
+    - weakness / strategically weak section
+    - Attack can be based on
+        - Target
+        - Number of events / attacks
+- Attacks:
+    - Active attacks
+        - Affected information:
+            - Availability
+            - Integrity
+            - Authenticity
+        - Process:
+            - Information Gathering
+                - Footprinting 
+                - Netowrk sniffing
+            - Scanning / Scrutiny of the collected data
+            - Actual attack execution
+    - Passive attacks
+- Ports:
+    - Interface at which data is exchanged between the comp and network
+    - States:
+        - Open
+        - Close
+        - Blocked
+    - Types:
+        - Well known
+        - Registered
+        - Dynamic / Reserved ports
+    - IANA: Assigns port numbers to the particular services
+    - Port Scan:
+        - A host scans for listenening ports on a single target host
+    - Port sweep:
+        - A host scans multiple hosts for a specific listening port
+- Hacktivist
+    - Hackers who engage in cyberattacks to promote political or social causes
+    - Driven by ideological / polotical motives
+- Script kiddy
+    - Individuals without adv tech knowledge  and rely on pre-written scripts or tools to launch the attacks
+
+    

@@ -1,0 +1,69 @@
+- Classification of cybercrimes against induviduals
+    - Induviduals
+        - Email spoofing 
+            Sending mail representing a trusted party [In actual he isnt]
+            False sender , pretends to be a legit org -> forged sender address
+        - Phishing
+            Convince people to disclose senstitive information
+            PIN, Bank account details, Private keys, address
+        - Spamming
+            Sending unsolicited, undesired mails
+        - Cyberdefamation
+            Spreading hurtful information about someone
+            - Oral defamation: Slander
+            - Written defamation: Lible
+        - Cyberstalking
+            Sending emails to harass someone
+        - Computer sabotage
+            Hinder the normal functioning of the system by a remote source / access
+            - Logic bombs
+                Programs that run after an event occurs
+        - Pornographic offenses
+            - Pedophile is a person who exploit small children into trafficking {2-3m}
+        - Password sniffing
+            - Keyloggers during login
+    - Property
+        - Credit card frauds
+            using someone else's credit
+        - IP crimes
+            - Copyright, Patent, Trademarks infringement
+            - Piracy
+        - Internet-time theft
+            Using someone else's wifi [Neighbour preffered]
+    - Organisation
+        - Unauth access of computer {Hacking}
+        - Password sniffing
+        - Denial of Service attacks [DoS]
+            Prevent legit users from using the required service
+            - Problems
+                - Effectiveness and avaialability goes down
+                - Connection interference
+                - Intervention of network traffic
+        - Virus attack
+            Software that causes harm to the data in system is called malware
+            Virus is a type of malware
+        - Email bombing
+        - UseNet
+            An electronic bulletin board that consists of a set of news groups
+        - Industrial spying
+        - Software piracy
+            Selling and use of software illegally
+    - Society
+        - Forgery
+        - Cyber terrorism
+        - Web jacking
+            Stealing webpage traffic
+            Occurs when someone forcefully takes control of the website
+            The actual owner doesn't have anymore control over what happens / appears on the website
+    - Usenet News groups
+        - Fake news
+- ITA,2000 [Information Technology Act]
+    - 13 chapters, 90 sections
+    - Sections : Actions
+        - S66: Computer related off
+        - S66A: Sending offensive msgs
+        - S66B: Recieveing stolen code
+        - S66C: Identity theft
+        - S66D: Cheating
+        - S66E: Violation of privacy
+- Netizen: A person who regularly and actively uses internet

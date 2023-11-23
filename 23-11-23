@@ -1,0 +1,61 @@
+- Social Engg
+    - Technique to track a common man to revela personal[Sensitive] information
+    - Ex: Phishing
+    - Social engineer => person who uses social engg
+    - Types:
+    - Human-based
+        - Impersonating an employee / valid user
+        - Posing as an important user
+        - Using a third person
+        - Pretending to Call for technical support
+        - Shoulder surfing
+            - Kaddi nododu
+        - Dumpster diving / Binning / Thrasing / Scavenging
+            - Looking into trash to get evidence [ Info from waste ]
+    - Computer based
+        - Fake emails / Phising
+            - Email attachments [Thats y binaries cant be sent through mail]
+        - Popup windows
+            - Notification window
+            - Banner vs Popup
+                - No interaction => banner but Popup has interaction
+        - Cyberstalking
+            - Harrassing someone by electronic means
+- Cybercafe
+    - No info about pre installed softwares
+    - Safety measures:
+        - No bank transactions
+        - Try using virtual keyboard
+        - Logout properly
+- Adwares
+    - Unwanted advertisements are displayed
+    - Disadv:
+        - Slow down
+        - Unexpected crashes
+        - UX comes down
+        - Changes browser settings
+- Sneakware 
+    - Software inside a software
+    - A <- B
+        - Authorised to install A 
+        - But B is also installed 
+        - Causes probs
+- Attack vector
+    - Path through which the attacker gets access into the target system
+- 0 day attack
+    - Loophole isnt known to the vendor and the buyer
+    - Attack the software at the earliest and take adv of vulnerabilities
+        - Security patches are brought later to compensate
+        - But data can be compromised
+- Cloud Computing
+    - Study on your own
+    - Models
+        - Private
+        - Public 
+        - Hybrid
+    - Services
+        - IaaS
+        - PaaS
+        - SaaS
+    - 
+ 
